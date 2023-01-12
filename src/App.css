@@ -1,0 +1,22 @@
+
+.container {
+    display: block;
+    max-width: 560px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.border {
+    border: 1px solid black;
+    border-top: 5px solid blue;
+    padding: 5px;
+}
+
+.text {
+    display: block;
+    font-size: 30px;
+}

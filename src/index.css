@@ -1,0 +1,6 @@
+@import "./kit/shared/styles/reset.css";
+
+* {
+    box-sizing: border-box;
+}
+
